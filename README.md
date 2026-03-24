@@ -21,8 +21,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 | Product Owner |                     
 | Scrum Master  | 
-| Team Member   |       
-|  Team Member  |                     
+| Team Member   |                           
 |  Team Member  |            
 |  Team Member  |
 
