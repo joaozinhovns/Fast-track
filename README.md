@@ -20,11 +20,17 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |    Função     |         Nome                                                                                                                                                                                          
 | Product Owner |         Manoele     
 | Scrum Master  |         Ribabar
-| Team Member   |         Alice                
-|  Team Member  |         Ana Tomé 
+
+| Team Member   |         Alice
+
+|  Team Member  |         Ana Tomé
+
 |  Team Member  |         João Paulo
+
 | Team Mwmber   |         Vitória
+
 | Team Member   |          Manoela 
+
 | Team Menbro   |          Willan
 # Objetivo do Projeto   
 Este projeto tem como objetivo criar um dashboard em Power BI para análise de dados de Importações que ocorreram entre os anos de 2023 e 2024 no estado de São Paulo, utilizando dados abertos forencidos pelo Comexstat, criando uma backend em Python para filtrar e análisar esses dados, e com isso ajudar a desenvolver algumas habilidades como:  
@@ -53,7 +59,8 @@ Este projeto tem como objetivo criar um dashboard em Power BI para análise de d
 # Backlog do produto
 
 ## Sprint 1
-
+Vídeo com entendimento do problema:
+https://youtu.be/DlfiBWUqN5Q
 
 
 ## Sprint 2
