@@ -18,22 +18,22 @@ Análise Integrada de Segurança Viária no Brasil
 
 
 # Equipe
-|    Função     |...................... Nome
+|    Função     |............................ Nome
 
 
-| Product Owner |......................Manoele  
+| Product Owner |..........................Manoele  
 
-| Scrum Master  |......................Ribabar
+| Scrum Master  |..........................Ribamar
 
-| Team Member   |.......................Alice
+| Team Member   |..........................Alice
 
-|  Team Member  |.......................Ana Tomé
+|  Team Member  |..........................Ana Tomé
 
-|  Team Member  |......................João Paulo
+|  Team Member  |.........................João Paulo
 
-| Team Mwmber   |.......................Vitória
+| Team Mwmber   |...........................Vitória
 
-| Team Member   |.......................Manoela 
+| Team Member   |...........................Manoela 
 
 | Team Menbro   |......................Willan
 
