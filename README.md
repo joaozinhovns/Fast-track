@@ -1,9 +1,7 @@
 
-# Aprendizado por Projeto Integrador (API)
+# Desafio Proposto
+Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito com foco em veículos pesados. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, frota, população, uso de motocicletas, entre outros. Ao fim, o projeto deve apresentar um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes.
 
-Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos 
 
 # Índice
 * [Projeto](#projeto-template)
@@ -39,8 +37,8 @@ Análise Integrada de Segurança Viária no Brasil
 
 | Team Menbro   |......................Willan
 
-# Objetivo do Projeto   
-Este projeto tem como objetivo criar um dashboard em Power BI para análise de dados de Importações que ocorreram entre os anos de 2023 e 2024 no estado de São Paulo, utilizando dados abertos forencidos pelo Comexstat, criando uma backend em Python para filtrar e análisar esses dados, e com isso ajudar a desenvolver algumas habilidades como:  
+# Objetivo do Projeto  
+Este projeto tem como objetivo : Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo o território nacional.
 
 * Trabalho em grupo;
 * Organizar e estruturar as informações;
