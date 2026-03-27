@@ -18,24 +18,24 @@ Análise Integrada de Segurança Viária no Brasil
 
 
 # Equipe
-|    Função     |............................... Nome
+|    Função     | Nome           | Link
 
 
-| Product Owner |............................Manoele  
+| Product Owner |   Manoele  
 
-| Scrum Master  |............................Ribamar
+| Scrum Master  |   Ribamar
 
-| Team Member   |..........................Alice
+| Team Member   |   Alice
 
-|  Team Member  |..........................Ana Tomé
+|  Team Member  |   Ana Tomé
 
-|  Team Member  |.........................João Paulo
+|  Team Member  |   João Paulo
 
-| Team Mwmber   |...........................Vitória
+| Team Mwmber   |    Vitória
 
-| Team Member   |...........................Manoela 
+| Team Member   |    Manoela 
 
-| Team Menbro   |......................Willan
+| Team Menbro   |    Willan
 
 # Objetivo do Projeto  
 Este projeto tem como objetivo : Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo o território nacional.
