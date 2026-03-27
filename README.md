@@ -64,6 +64,7 @@ Este projeto tem como objetivo criar um dashboard em Power BI para análise de d
 
 ## Sprint 1
 Vídeo com entendimento do problema:
+
 https://youtu.be/DlfiBWUqN5Q
 
 
