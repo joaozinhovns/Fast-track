@@ -70,9 +70,8 @@ Vídeo com entendimento do problema:
 
 
 ## Sprint 2
-	<img width="890" height="294" alt="image" src="https://github.com/user-attachments/assets/27746d56-cc0f-42b4-8a21-ed7ccae7d1e5" />
-
-
+<img width="883" height="290" alt="image" src="https://github.com/user-attachments/assets/4c32e7ac-f110-4788-bf76-aa0ce2e98279" />
+	
 ## Sprint 3
 <img width="892" height="417" alt="image" src="https://github.com/user-attachments/assets/c359c98a-bdb8-459e-b706-5633cef7b390" />
 
