@@ -66,30 +66,15 @@ Vídeo com entendimento do problema:
 ## Backlog do produto			
 
 ## Sprint 1
-Integração e preparação de dados							
-Ranking	Prioridade	User Story	Requisito do Cliente				
+<img width="892" height="258" alt="image" src="https://github.com/user-attachments/assets/76de1c5d-c3c0-4fbe-9d01-c68e0cdab023" />
 
-1-	Alta	Como analista de dados, quero integrar dados da PRF, DATASUS, DENATRAN e IBGE para ter uma base única de análise de segurança viária.	Integração de bases				
-
-2-	Alta	Como analista, quero limpar e normalizar os dados no Google Colab usando Python para garantir qualidade e confiabilidade das análises.	RN.P.1				
-
-3-	Alta	Como usuário do dashboard, quero visualizar dados nacionais de frota, população, sinistros e mortes para ter visão geral da segurança viária no Brasil.	Visualização nacional				
-
-4-	Alta	Como usuário, quero visualizar dados por estado para comparar indicadores regionais de segurança viária.	Visualização estadual				
-18	Baixa	Como equipe do projeto, quero armazenar código e artefatos no GitHub para garantir versionamento e colaboração.	RN.P.4	
 
 ## Sprint 2
-Sprint 2 – Indicadores, tendências e experiência do dashboard							
-Rank	Prioridade	User Story	Requisito do Cliente				
-5	Alta	Como analista, quero calcular a taxa de mortalidade por 100 mil habitantes para avaliar o impacto dos sinistros no trânsito	Indicadores-chave				
-6	Alta	Como analista, quero calcular sinistros por 10 mil veículos para comparar níveis de risco entre estados	Indicadores-chave				
-7	Alta	Como usuário, quero visualizar gráficos de tendência por ano para analisar evolução da segurança viária entre 2015 e 2025	Tendência histórica				
-19	Média	Como usuário, quero interface intuitiva no Power BI com navegação simples para acessar informações rapidamente	RN.P.5				
-12	Média	Como usuário, quero comparar indicadores de um estado com a média nacional para avaliar desempenho relativo	Comparação nacional				
-14	Média	Como usuário, quero visualizar mapas interativos por estado para facilitar análise geográfica dos dados	Visualização geográfica		
+	<img width="890" height="294" alt="image" src="https://github.com/user-attachments/assets/27746d56-cc0f-42b4-8a21-ed7ccae7d1e5" />
+
 
 ## Sprint 3
-<img width="881" height="416" alt="image" src="https://github.com/user-attachments/assets/a7e9b200-7d6b-4edb-b2d0-44fb1b3c7ab8" />
+<img width="892" height="417" alt="image" src="https://github.com/user-attachments/assets/c359c98a-bdb8-459e-b706-5633cef7b390" />
 
 
 ## Sprint 4
