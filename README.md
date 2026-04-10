@@ -51,7 +51,7 @@ Este projeto tem como objetivo : Desenvolvimento de um dashboard interativo com 
  ### Tecnologias Específicas/Apoio
  - Jira
  - GitHub
- - Slack
+ - WatsApp
  - Google Colab
  - Linguagem R
  - Office
@@ -61,12 +61,42 @@ Este projeto tem como objetivo : Desenvolvimento de um dashboard interativo com 
 
   
 
-# Backlog do produto
+## Backlog do produto
+Sprint 1 – Integração e preparação de dados							
+Ranking	Prioridade	User Story	Requisito do Cliente				
+1	Alta	Como analista de dados, quero integrar dados da PRF, DATASUS, DENATRAN e IBGE para ter uma base única de análise de segurança viária.	Integração de bases				
+2	Alta	Como analista, quero limpar e normalizar os dados no Google Colab usando Python para garantir qualidade e confiabilidade das análises.	RN.P.1				
+3	Alta	Como usuário do dashboard, quero visualizar dados nacionais de frota, população, sinistros e mortes para ter visão geral da segurança viária no Brasil.	Visualização nacional				
+4	Alta	Como usuário, quero visualizar dados por estado para comparar indicadores regionais de segurança viária.	Visualização estadual				
+18	Baixa	Como equipe do projeto, quero armazenar código e artefatos no GitHub para garantir versionamento e colaboração.	RN.P.4				
+							
+Sprint 2 – Indicadores, tendências e experiência do dashboard							
+Rank	Prioridade	User Story	Requisito do Cliente				
+5	Alta	Como analista, quero calcular a taxa de mortalidade por 100 mil habitantes para avaliar o impacto dos sinistros no trânsito	Indicadores-chave				
+6	Alta	Como analista, quero calcular sinistros por 10 mil veículos para comparar níveis de risco entre estados	Indicadores-chave				
+7	Alta	Como usuário, quero visualizar gráficos de tendência por ano para analisar evolução da segurança viária entre 2015 e 2025	Tendência histórica				
+19	Média	Como usuário, quero interface intuitiva no Power BI com navegação simples para acessar informações rapidamente	RN.P.5				
+12	Média	Como usuário, quero comparar indicadores de um estado com a média nacional para avaliar desempenho relativo	Comparação nacional				
+14	Média	Como usuário, quero visualizar mapas interativos por estado para facilitar análise geográfica dos dados	Visualização geográfica				
+							
+Sprint 3 – Filtros, análises estratégicas e funcionalidades finais							
+Rank	Prioridade	User Story	Requisito do Cliente				
+8	Média	Como usuário, quero filtrar dados por tipo de veículo para analisar especificamente veículos pesados	Filtros interativos				
+9	Média	Como usuário, quero filtrar dados por região do Brasil para comparar padrões regionais de sinistros	Filtros interativos				
+10	Média	Como usuário, quero filtrar dados por ano para analisar mudanças ao longo do tempo	Filtros interativos				
+11	Média	Como usuário, quero filtrar dados por gravidade do sinistro para avaliar severidade dos acidentes	Filtros interativos				
+20	Média	Como usuário, quero acessar o dashboard em diferentes dispositivos para ter experiência responsiva	RN.P.6				
+13	Média	Como analista, quero identificar correlação entre frota de veículos pesados e sinistros fatais para entender fatores de risco no trânsito	Questões de análise				
+15	Alta	Como usuário, quero visualizar ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes para identificar melhores práticas	Ranking municipal				
+16	Média	Como gestor público, quero identificar estados com maior taxa de letalidade envolvendo veículos pesados para priorizar políticas públicas	Análise estratégica				
+17	Baixa	Como pesquisador, quero exportar dados e gráficos do dashboard para usar em estudos acadêmicos	Apoio a estudos				
 
-## Sprint 1
+
+
+## Vídeo de apresentação
 Vídeo com entendimento do problema:
 
-https://youtu.be/DlfiBWUqN5Q
+## Sprint 1
 
 
 ## Sprint 2
@@ -80,7 +110,7 @@ https://youtu.be/DlfiBWUqN5Q
 # Registro das Sprints
 
 
-# projeto-de-munic-pios
+
 
 
 
