@@ -80,6 +80,7 @@ Vídeo com entendimento do problema:
 
 
 # Registro das Sprints
+<img width="691" height="246" alt="image" src="https://github.com/user-attachments/assets/2d623cf4-cbe4-4ca8-84e4-c4f31cd70007" />
 
 
 
