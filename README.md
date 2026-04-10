@@ -66,12 +66,16 @@ Vídeo com entendimento do problema:
 ## Backlog do produto			
 
 ## Sprint 1
-Sprint 1 – Integração e preparação de dados							
+Integração e preparação de dados							
 Ranking	Prioridade	User Story	Requisito do Cliente				
-1	Alta	Como analista de dados, quero integrar dados da PRF, DATASUS, DENATRAN e IBGE para ter uma base única de análise de segurança viária.	Integração de bases				
-2	Alta	Como analista, quero limpar e normalizar os dados no Google Colab usando Python para garantir qualidade e confiabilidade das análises.	RN.P.1				
-3	Alta	Como usuário do dashboard, quero visualizar dados nacionais de frota, população, sinistros e mortes para ter visão geral da segurança viária no Brasil.	Visualização nacional				
-4	Alta	Como usuário, quero visualizar dados por estado para comparar indicadores regionais de segurança viária.	Visualização estadual				
+
+1-	Alta	Como analista de dados, quero integrar dados da PRF, DATASUS, DENATRAN e IBGE para ter uma base única de análise de segurança viária.	Integração de bases				
+
+2-	Alta	Como analista, quero limpar e normalizar os dados no Google Colab usando Python para garantir qualidade e confiabilidade das análises.	RN.P.1				
+
+3-	Alta	Como usuário do dashboard, quero visualizar dados nacionais de frota, população, sinistros e mortes para ter visão geral da segurança viária no Brasil.	Visualização nacional				
+
+4-	Alta	Como usuário, quero visualizar dados por estado para comparar indicadores regionais de segurança viária.	Visualização estadual				
 18	Baixa	Como equipe do projeto, quero armazenar código e artefatos no GitHub para garantir versionamento e colaboração.	RN.P.4	
 
 ## Sprint 2
@@ -85,17 +89,8 @@ Rank	Prioridade	User Story	Requisito do Cliente
 14	Média	Como usuário, quero visualizar mapas interativos por estado para facilitar análise geográfica dos dados	Visualização geográfica		
 
 ## Sprint 3
-Sprint 3 – Filtros, análises estratégicas e funcionalidades finais							
-Rank	Prioridade	User Story	Requisito do Cliente				
-8	Média	Como usuário, quero filtrar dados por tipo de veículo para analisar especificamente veículos pesados	Filtros interativos				
-9	Média	Como usuário, quero filtrar dados por região do Brasil para comparar padrões regionais de sinistros	Filtros interativos				
-10	Média	Como usuário, quero filtrar dados por ano para analisar mudanças ao longo do tempo	Filtros interativos				
-11	Média	Como usuário, quero filtrar dados por gravidade do sinistro para avaliar severidade dos acidentes	Filtros interativos				
-20	Média	Como usuário, quero acessar o dashboard em diferentes dispositivos para ter experiência responsiva	RN.P.6				
-13	Média	Como analista, quero identificar correlação entre frota de veículos pesados e sinistros fatais para entender fatores de risco no trânsito	Questões de análise				
-15	Alta	Como usuário, quero visualizar ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes para identificar melhores práticas	Ranking municipal				
-16	Média	Como gestor público, quero identificar estados com maior taxa de letalidade envolvendo veículos pesados para priorizar políticas públicas	Análise estratégica				
-17	Baixa	Como pesquisador, quero exportar dados e gráficos do dashboard para usar em estudos acadêmicos	Apoio a estudos				
+<img width="881" height="416" alt="image" src="https://github.com/user-attachments/assets/a7e9b200-7d6b-4edb-b2d0-44fb1b3c7ab8" />
+
 
 ## Sprint 4
 
