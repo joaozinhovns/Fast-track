@@ -21,21 +21,21 @@ Análise Integrada de Segurança Viária no Brasil
 |    Função     | Nome           | Link
 
 
-| Product Owner |   Manoele  
+| Product Owner |   Manoele  |  manoele.rosas@aluno.cps.sp.gov.br
 
-| Scrum Master  |   Ribamar
+| Scrum Master  |   Ribamar  |  ribamar.barros@aluno.cps.sp.gov.br
 
-| Team Member   |   Alice
+| Team Member   |   Aline   |   aline.silva19@aluno.cps.sp.gov.br
 
-|  Team Member  |   Ana Tomé
+|  Team Member  |   Ana Tomé  |  ana.tome@aluno.cps.sp.gov.br
 
-|  Team Member  |   João Paulo
+|  Team Member  |   João Paulo  |  joao.silva263@aluno.cps.sp.gov.br
 
-| Team Mwmber   |    Vitória
+| Team Mwmber   |    Vitória  |  vitoria.mariano@aluno.cps.sp.gov.br
 
-| Team Member   |    Manoela 
+| Team Member   |    Manoela  | manoele.rosas@aluno.cps.sp.gov.br
 
-| Team Menbro   |    Willan
+| Team Menbro   |    Willan  |   willian.goncalves@aluno.cps.sp.gov.br 
 
 # Objetivo do Projeto  
 Este projeto tem como objetivo : Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo o território nacional.
