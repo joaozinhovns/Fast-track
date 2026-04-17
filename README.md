@@ -67,7 +67,8 @@ Vídeo com entendimento do problema:
 
 ## Sprint 1
 <img width="892" height="258" alt="image" src="https://github.com/user-attachments/assets/76de1c5d-c3c0-4fbe-9d01-c68e0cdab023" />
-
+## comunicação com O cliente
+<img width="824" height="209" alt="image" src="https://github.com/user-attachments/assets/0c22afcf-f6f3-4df5-9c9f-e9b1dc4f69a6" />
 
 ## Sprint 2
 <img width="887" height="294" alt="image" src="https://github.com/user-attachments/assets/d62c41ae-6043-48f6-8e8e-af65445234f1" />
