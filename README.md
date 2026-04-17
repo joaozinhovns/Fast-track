@@ -71,6 +71,11 @@ Vídeo com entendimento do problema:
 
 ## Comunicação com o cliente
 
+## https://fasttracklogg.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?jql=
+
+<img width="880" height="456" alt="image" src="https://github.com/user-attachments/assets/9bd3b2dc-be21-4fd9-b9fc-312f139d8d0e" />
+
+
 <img width="824" height="209" alt="image" src="https://github.com/user-attachments/assets/0c22afcf-f6f3-4df5-9c9f-e9b1dc4f69a6" />
 
 ## Sprint 2
