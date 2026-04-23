@@ -49,12 +49,14 @@ Este projeto tem como objetivo : Desenvolvimento de um dashboard interativo com 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
+ - Excel
  - Jira
  - GitHub
  - WatsApp
  - Google Colab
  - Linguagem R
  - Office
+ - 
  -  ### Tecnologias da Informação
  - Python3+
  - PowerBI
