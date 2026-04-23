@@ -72,6 +72,7 @@ Vídeo com entendimento do problema:
 
 ## Colab
 
+
 https://drive.google.com/drive/home
 
 
