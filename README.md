@@ -80,16 +80,19 @@ https://drive.google.com/drive/home
 
 ## https://fasttracklogg.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?jql=
 
+
 <img width="880" height="456" alt="image" src="https://github.com/user-attachments/assets/9bd3b2dc-be21-4fd9-b9fc-312f139d8d0e" />
 
 
 <img width="824" height="209" alt="image" src="https://github.com/user-attachments/assets/0c22afcf-f6f3-4df5-9c9f-e9b1dc4f69a6" />
 
 ## Sprint 2
+
 <img width="887" height="294" alt="image" src="https://github.com/user-attachments/assets/d62c41ae-6043-48f6-8e8e-af65445234f1" />
 
 	
 ## Sprint 3
+
 <img width="892" height="417" alt="image" src="https://github.com/user-attachments/assets/c359c98a-bdb8-459e-b706-5633cef7b390" />
 
 
