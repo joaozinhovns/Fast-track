@@ -1,5 +1,5 @@
 
-# Desafio Proposto
+# Aprendizado por Projeto Integrado (API) - Template
 Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito com foco em veículos pesados. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, frota, população, uso de motocicletas, entre outros. Ao fim, o projeto deve apresentar um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes.
 
 
