@@ -4,7 +4,7 @@ Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases
 
 
 # Índice
-* [Projeto](#projeto-template)
+* [Objetivo do Projeto ](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
@@ -72,7 +72,9 @@ Vídeo com entendimento do problema:
 
 https://drive.google.com/drive/home
 
+
 ## Comunicação com o cliente
+
 
 ## https://fasttracklogg.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?jql=
 
@@ -93,6 +95,7 @@ https://drive.google.com/drive/home
 
 
 # Registro das Sprints
+
 <img width="691" height="246" alt="image" src="https://github.com/user-attachments/assets/2d623cf4-cbe4-4ca8-84e4-c4f31cd70007" />
 
 
